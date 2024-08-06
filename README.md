@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Michail Theofanopoulos</h1>
 <h3 align="center">MSc in Data Science student, fueled by a passion for data and a lifelong love affair with computers and programming</h3>
 
