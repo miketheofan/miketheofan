@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michail Theofanopoulos</h1>
+<h1 align="center">Hi 👋, I'm Michael Theofanopoulos</h1>
 <h3 align="center">MSc in Data Science candidate @ <a href="https://www.aueb.gr/"> AUEB </a>, fueled by a passion for data and a lifelong love affair with computers and programming</h3>
 
 <h3 align="left">Languages and Tools:</h3>
