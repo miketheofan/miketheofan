@@ -9,9 +9,9 @@
 
 ###
 
-- 🔭 I currently work as a Backend Software Engineer as an external partner in Eurobank.
+- I currently work as a Backend Software Engineer as an external partner in Eurobank.
 
-- 🌱 I’m also currently pursuing my Master's Degree in Data Science at AUEB.
+- I’m also currently pursuing my Master's Degree in Data Science at AUEB.
   
 <h3 align="left">Tech Stack</h3>
 
