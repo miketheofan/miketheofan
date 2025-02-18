@@ -1,5 +1,5 @@
 <h1 left="center">Hi 👋, I'm Michael Theofanopoulos</h1>
-<h3 left="center">A Software Engineer from Greece, who's passionate about AI, ML and Full Stack Software Development</h3>
+<h3 left="center">A Software Engineer from Greece, who's passionate about Artificial Intelligence, Machine Learning and Backend Software Development</h3>
 
 ###
 
