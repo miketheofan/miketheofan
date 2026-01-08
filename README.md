@@ -17,12 +17,6 @@ Building robust, scalable enterprise systems across finance, gaming, and public 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=miketheofan&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=miketheofan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-
 ---
 
 ⚡ *Check out my pinned projects below!*
