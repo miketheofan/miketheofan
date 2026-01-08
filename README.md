@@ -1,36 +1,28 @@
-<h1 left="center">Hi 👋, I'm Michael Theofanopoulos</h1>
-<h3 left="center">A Software Engineer from Greece, who's passionate about Artificial Intelligence, Machine Learning and Backend Software Development</h3>
+# Hi there, I'm Mike 👋
 
-###
+**Software Engineer | Enterprise Systems & Distributed Platforms**
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=miketheofan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
-</div>
+Building robust, scalable enterprise systems across finance, gaming, and public sectors. Interested in AI and intelligent systems.
 
-###
+## 🛠️ Tech Stack
 
-- I currently work as a Backend Software Engineer as an external partner in Eurobank.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-- I’m also currently pursuing my Master's Degree in Data Science at AUEB.
-  
-<h3 align="left">Tech Stack</h3>
+## 📊 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miketheofan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-<p align="left"> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miketheofan&layout=compact&theme=transparent&hide_border=true)
 
+---
 
-###
+⚡ *Check out my pinned projects below!*
