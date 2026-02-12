@@ -17,8 +17,4 @@ Building robust, scalable enterprise systems across finance, gaming, and public 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
-[![Top Langs](https://github-readme-stats2-delta-sand.vercel.app/api/top-langs/?username=miketheofan&layout=pie&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
----
-
 ⚡ *Check out my pinned projects below!*
